@@ -1,0 +1,14 @@
+{
+  "name": "nodeblogapp",
+  "version": "1.0.0",
+  "description": "Blog App with NodeJS, Express and MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ricardo Jaramillo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
